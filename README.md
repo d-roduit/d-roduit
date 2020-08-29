@@ -1,9 +1,10 @@
-### Hi there 👋
+### Howdy fellow, it's Daniel ! Nice to see you around here 👋
 
 <!--
 **d-roduit/d-roduit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+If my projects interest you or you find them cool, don't hesitate in any case to let me know!
+Here are some ways to contact me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
